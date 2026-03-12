@@ -1,13 +1,16 @@
 # 👋 Hello, I'm Gabriel Consulo
 
-🎓 Computer Science student at Universidade Positivo  
+🎓 Computer Science Student — Universidade Positivo  
+💻 Aspiring Software Developer  
 📍 Curitiba, Brazil  
 
 ## 🚀 Tech Stack
-![Python](https://img.shields.io/badge/Python-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -16,14 +19,16 @@
 ## 📊 Productivity
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
+## 📊 GitHub Stats
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabconsulo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabconsulo&layout=compact&theme=tokyonight)
 
 ## 📌 Featured Projects
 🔹 Automation scripts in Python  
 🔹 Web development projects  
-🔹 Programming practice repositories
+🔹 Programming practice repositories  
 
 ## 📫 Contact
-Email: gabconsulo@gmail.com  
-LinkedIn: linkedin.com/gabconsulo
+📧 gabconsulo@gmail.com  
+💼 linkedin.com/gabconsulo
