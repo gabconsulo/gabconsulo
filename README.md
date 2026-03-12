@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Gabriel Consulo
 
-<!--
-**gabconsulo/gabconsulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Universidade Positivo  
+📍 Curitiba, Brazil  
 
-Here are some ideas to get you started:
+---
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python  
+JavaScript  
+HTML  
+CSS  
+C  
+
+Tools:
+Git • GitHub • Office
+
+---
+## 📌 Featured Projects
+
+🔹 Automation scripts in Python  
+🔹 Web development projects  
+🔹 Programming practice repositories
+
+---
+## 📫 Contact
+
+Email: gabconsulo@gmail.com  
+LinkedIn: linkedin.com/gabconsulo
