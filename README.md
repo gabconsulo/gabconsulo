@@ -20,9 +20,6 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-## 📊 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabconsulo&layout=compact&theme=tokyonight)
-
 ## 📌 Featured Projects
 🔹 Automation scripts in Python  
 🔹 Web development projects  
